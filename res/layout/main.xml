@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView android:id="@+id/textViewNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World, MainActivity"
+        />
+    <EditText android:id="@+id/editTextNumberHistory"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="" />
+    <Button android:id="@+id/buttonNextNumber" 
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" 
+        android:text="Следующий" 
+        android:onClick="buttonNextNumber_Click"></Button>
+</LinearLayout>
+
