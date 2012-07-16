@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jhekasoft Лото</string>
+    <string name="about">О программе</string>
+    <string name="exit">Выход</string>
+    <string name="about_content">
+        <b>Jhekasoft Лото</b>\n\n
+        (c) 2012 Евгений Ефремов
+    </string>
+    <string name="start_title">--</string>
+    <string name="next">Следующий</string>
+</resources>
