@@ -8,6 +8,14 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/start_title" />
+    <TextView android:id="@+id/textViewJargon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start_title" />
+    <TextView android:id="@+id/textViewStep"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start_title" />
     <EditText android:id="@+id/editTextNumberHistory"
         android:layout_weight="1"
         android:layout_width="fill_parent"

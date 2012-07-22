@@ -21,7 +21,7 @@ public class Lotto {
         Collections.shuffle(numbers);
     }
     
-    public int getNextNumber(){
+    public int getNextNumber() {
         if(NUMBERS_COUNT == stepNum) {
             return NUMBERS_END;
         }
@@ -30,6 +30,30 @@ public class Lotto {
         stepNum++;
         
         return nextNum;
+    }
+    
+    public int getCurrentStep() {
+        return stepNum;
+    }
+    
+    public int getNumbersCount() {
+        return NUMBERS_COUNT;
+    }
+    
+    public boolean isCurrentNumberFirst() {
+        if(1 == stepNum) {
+            return true;
+        }
+        
+        return false;
+    }
+    
+    public boolean isCurrentNumberLast() {
+        if(NUMBERS_COUNT == stepNum) {
+            return true;
+        }
+        
+        return false;
     }
     
 }

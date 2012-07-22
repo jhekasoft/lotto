@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Jhekasoft Лото</string>
+    <string name="app_name">Лото</string>
     <string name="about">О программе</string>
     <string name="exit">Выход</string>
     <string name="about_content">
@@ -9,4 +9,109 @@
     </string>
     <string name="start_title">--</string>
     <string name="next">Следующий</string>
+    <string name="of">из</string>
+    <string name="game_over">Конец игры</string>
+    
+    <string-array name="numbers_jargon">
+        <item></item>
+        
+        <item>кол</item>
+        <item>лебедь</item>
+        <item>трое, на троих</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>топор</item>
+        <item>-</item>
+        <item>-</item>
+        <item>бычий глаз</item>
+        
+        <item>барабанные палочки, барабанная дробь</item>
+        <item>дюжина</item>
+        <item>чертова дюжина</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>в первый раз</item>
+        <item>-</item>
+        <item>-</item>
+        
+        <item>очко</item>
+        <item>гуси-лебеди</item>
+        <item>-</item>
+        <item>-</item>
+        <item>опять двадцать пять</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        
+        <item>-</item>
+        <item>голодный год</item>
+        <item>кучерявый (две горбатых)</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        
+        <item>ем один</item>
+        <item>-</item>
+        <item>Сталинград</item>
+        <item>стульчики</item>
+        <item>баба ягодка опять</item>
+        <item>-</item>
+        <item>-</item>
+        <item>половинку просим</item>
+        <item>-</item>
+        <item>полста</item>
+        
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>перчатки</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        
+        <item>Гагарин</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>валенки</item>
+        <item>-</item>
+        <item>-</item>
+        <item>туда-сюда</item>
+        <item>-</item>
+        
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>топорики</item>
+        <item>-</item>
+        <item>-</item>
+        <item>бабушка</item>
+        
+        <item>бабка с клюшкой</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>матрёшки</item>
+        <item>дедушкин сосед</item>
+        <item>дедушка</item>
+    </string-array>
 </resources>
