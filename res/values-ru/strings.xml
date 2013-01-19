@@ -5,7 +5,9 @@
     <string name="exit">Выход</string>
     <string name="about_content">
         <b>Jhekasoft Лото</b>\n\n
-        (c) 2012 Евгений Ефремов
+        (c) 2012-2013 Евгений Ефремов\n\n
+        Версия: 0.2\n\n
+        <a href="http://jhekasoft.net">http://jhekasoft.net</a>
     </string>
     <string name="start_title">--</string>
     <string name="next">Следующий</string>

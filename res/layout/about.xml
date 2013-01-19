@@ -15,7 +15,8 @@
         <TextView android:id="@+id/textViewAbout"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/about_content" />
+            android:text="@string/about_content"
+            android:autoLink="web" />
     </ScrollView>
 </LinearLayout>
 
